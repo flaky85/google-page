@@ -1,0 +1,154 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+ .nav {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 2rem;
+  margin-right: 2rem;
+ }
+
+ .nav a {
+   margin-right: 1rem;
+ }
+
+ .nav img {
+   width: 1%;
+ }
+
+ .logo {
+   text-align: center;
+   margin-top: 6rem;
+ }
+
+ .searchbarcontainer {
+   text-align: center;
+ }
+
+ #search-bar {
+   width: 40%;
+   padding-top: 2.5rem;
+   padding-right: 1rem;
+   outline: 0;
+   border-radius: 20px;
+   border: 1px solid #8d8d8d;
+ }
+
+ .btn {
+   display: flex;
+   justify-content: center;
+   margin-top: 2rem;
+ }
+
+ .button {
+   margin-left: 1rem;
+   margin-right: 1rem;
+   padding:.5rem .5rem;
+   cursor: pointer;
+   background-color: rgb(231, 231 231);
+   border: 1px solid whitesmoke;
+   border-radius: 3px;
+ }
+
+ .search-mic {
+   position: absolute;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+
+ .search {
+   width: 4%;
+   height: 5%;
+   margin-left: 20rem;
+   margin-right: 20rem;
+ }
+
+ .mic {
+  width: 2%;
+  height: 5%;
+  margin-left: 10rem;
+  margin-right: 10rem;
+}
+
+  h3 {
+    margin-top: 15rem;
+    margin-bottom: -1rem;
+    background-color:#dbd3d3;
+    padding: 1rem; 
+
+  }
+ .footer-content {
+   display: flex;
+   justify-content: space-between;
+   margin-top: 2rem;
+   background-color: #dbd3d3;
+   border: 2px solid #000;
+   padding: 1rem;
+ }
+
+ nav a {
+   text-decoration: none;
+   margin-left: 1.5rem;
+   margin-right: 1.5rem;
+   color: #000;
+   
+ }
+
+ a:hover {
+   text-decoration: underline;
+ }
+
+
+
+
+
+ 
+/* .nav.topimage a {
+   width: 20%;
+   height: 20%;
+   background-color: red;
+   border-radius: 50%;
+ } */
+
+/* a {
+  text-decoration: none;
+  color: #000;
+  padding: 1rem;
+}
+
+
+.pix ul {
+  width: 20%;
+  height: 20%;
+  background-color: red;
+  border-radius: 50%;
+}
+
+.nav img {
+ width: 5%;
+ margin-top: 2rem;
+}
+
+ .section {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+ }
+
+
+ .input-container {
+   width: 10%;
+   display: flex;
+ }
+
+ input[type="text"] {
+   width: 100%;
+   height: 50%;
+ }
+
+ */ */
